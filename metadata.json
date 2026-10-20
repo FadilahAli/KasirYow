@@ -1,0 +1,6 @@
+{
+  "name": "Kassa - Aplikasi Kasir Estetik",
+  "description": "Aplikasi kasir modern, estetik, dan ramah pengguna dengan fitur cetak struk/resi thermal, kelola menu, dan riwayat transaksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
